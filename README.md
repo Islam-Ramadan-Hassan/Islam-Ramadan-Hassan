@@ -26,7 +26,7 @@ Every project below has one goal: give a business owner or manager a clear, acti
 ## Tools I use daily
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,sklearn,github,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,github,git&perline=5" />
 </p>
 
 <p align="center">
